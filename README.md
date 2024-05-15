@@ -2,7 +2,7 @@
 
 2] Write a lex program to recognize tokens: a. Identifiers b. Integer constant c. Real constant
 
-3] Write a program to read integer constant as string and convert it to decimal numbers. Integer constants are represented in decimal, octal and hexa decimal.
+3] Write a program to read integer constant as string and convert it to decimal numbers. Integer constants are represented in decimal, octal and hexa decimal.          C
 
 4] Eliminate left recursion
 
